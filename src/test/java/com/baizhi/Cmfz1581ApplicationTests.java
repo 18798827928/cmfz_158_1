@@ -11,6 +11,8 @@ public class Cmfz1581ApplicationTests {
 
     @Test
     public void contextLoads() {
+
+        System.out.println("===1===");
     }
 
 }
